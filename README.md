@@ -15,10 +15,10 @@ The given C++ code simulates a bank transaction system. It allows users to trans
 
 # Conclusion:
 Sample input
-[Sample input](Input.png)
+![Sample input](Input.png)
 
 Expected and actual output
-[Sample Output](Output.png)
+![Sample Output](Output.png)
 
 
 
